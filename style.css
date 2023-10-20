@@ -1,0 +1,13 @@
+/* écrire et relié le Style à la fin du cours */
+body {
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+    margin: 0 auto;
+}
+
+#target {
+    margin-top: 50px;
+    text-align: center;
+    text-transform: capitalize;
+}
